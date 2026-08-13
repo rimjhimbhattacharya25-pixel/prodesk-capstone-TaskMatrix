@@ -49,7 +49,7 @@ TaskMatrix is a modern Agile project management platform designed to help teams 
 ## UI/UX Design
 
 Figma Design:
-[Add your public Figma link here]
+[https://www.figma.com/design/zYrEiyHK4BSRQWELE7xYtP/TaskMatrix-%E2%80%94-UI-UX-Design?m=auto&t=riEbWt5f6KWy1UmF-6]
 
 ## Project Status
 
